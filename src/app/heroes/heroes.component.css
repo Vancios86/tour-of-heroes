@@ -1,0 +1,10 @@
+.heroes {
+  list-style: none;
+}
+.heroes > li {
+  margin-top: 5px;
+}
+.heroes .id {
+  background-color: darkgrey;
+  margin-right: 5px;
+}
